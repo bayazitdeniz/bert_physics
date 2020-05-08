@@ -1,0 +1,13 @@
+﻿option_a,option_b
+"X threw Y, and X is smaller than Y.","X threw Y, and Y is smaller than X."
+"Y threw X, and Y is smaller than X.","Y threw X, and X is smaller than Y."
+"X carried Y, and X is heavier than Y.","X carried Y, and Y is heavier than X."
+"Y carried X, and Y is heavier than X.","Y carried X, and X is heavier than Y."
+"X squashed Y, and X is stronger than Y.","X squashed Y, and Y is stronger than X."
+"Y squashed X, and Y is stronger than X.","Y squashed X, and X is stronger than Y."
+"The boy thew the ball, and the boy is bigger than the ball.","The boy thew the ball, and the ball is bigger than the boy."
+"The woman carried the book, and the woman is heavier than the book.","The woman carried the book, and the book is heavier than the woman."
+"The horse squashed the bug, and the horse is stronger than the bug.","The horse squashed the bug, and the bug is stronger than the horse."
+"The girl threw the rocket, and the girl is bigger than the rocket. ","The girl threw the rocket, and the rocket is bigger than the girl. "
+"The boy carried the car, and the boy is heavier than the car.","The boy carried the car, and the car is heavier than the boy."
+"The machine squashed the truck, and the machine is stronger than the truck.","The machine squashed the truck, the truck is stronger than the machine."

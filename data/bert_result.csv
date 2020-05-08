@@ -1,0 +1,13 @@
+option_a,option_b,a_crossentropy,b_crossentropy,a_perplexity,b_perplexity,winner
+"X threw Y, and X is smaller than Y.","X threw Y, and Y is smaller than X.",2.5179827213287354,2.612509250640869,5.727806364391394,6.115664443866993,a
+"Y threw X, and Y is smaller than X.","Y threw X, and X is smaller than Y.",2.5583760738372803,2.5645673274993896,5.890442736891746,5.915775595963578,a
+"X carried Y, and X is heavier than Y.","X carried Y, and Y is heavier than X.",2.5197997093200684,2.530177593231201,5.735024738031146,5.776427806465908,a
+"Y carried X, and Y is heavier than X.","Y carried X, and X is heavier than Y.",2.567396402359009,2.5297341346740723,5.9273876080633565,5.774652509114592,b
+"X squashed Y, and X is stronger than Y.","X squashed Y, and Y is stronger than X.",2.3343708515167236,2.5413670539855957,5.043309806127161,5.821403641834027,a
+"Y squashed X, and Y is stronger than X.","Y squashed X, and X is stronger than Y.",2.5325686931610107,2.408886432647705,5.7860095045831965,5.3106425691867045,b
+"The boy thew the ball, and the boy is bigger than the ball.","The boy thew the ball, and the ball is bigger than the boy.",1.866039752960205,1.926749348640442,3.6453055662920653,3.8019757987866694,a
+"The woman carried the book, and the woman is heavier than the book.","The woman carried the book, and the book is heavier than the woman.",1.9254729747772217,1.9840772151947021,3.798613621481913,3.9560953959956047,a
+"The horse squashed the bug, and the horse is stronger than the bug.","The horse squashed the bug, and the bug is stronger than the horse.",1.7633750438690186,1.7744464874267578,3.3949140360113006,3.421067304796485,a
+"The girl threw the rocket, and the girl is bigger than the rocket. ","The girl threw the rocket, and the rocket is bigger than the girl. ",1.782525897026062,1.7903451919555664,3.4402797811190027,3.458976451478041,a
+"The boy carried the car, and the boy is heavier than the car.","The boy carried the car, and the car is heavier than the boy.",1.84243905544281,1.914354920387268,3.5861580078434683,3.76945231231144,a
+"The machine squashed the truck, and the machine is stronger than the truck.","The machine squashed the truck, the truck is stronger than the machine.",1.749756932258606,1.6953845024108887,3.363019006055401,3.2386319008655344,b

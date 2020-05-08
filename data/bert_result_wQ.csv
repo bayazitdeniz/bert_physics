@@ -1,0 +1,13 @@
+Q,option_a,option_b,a_crossentropy,b_crossentropy,a_perplexity,b_perplexity,winner
+Q1,"X threw Y, and X is smaller than Y.","X threw Y, and Y is smaller than X.",2.517982721,2.612509251,5.727806364,6.115664444,a
+Q2,"Y threw X, and Y is smaller than X.","Y threw X, and X is smaller than Y.",2.558376074,2.564567327,5.890442737,5.915775596,a
+Q3,"X carried Y, and X is heavier than Y.","X carried Y, and Y is heavier than X.",2.519799709,2.530177593,5.735024738,5.776427806,a
+Q4,"Y carried X, and Y is heavier than X.","Y carried X, and X is heavier than Y.",2.567396402,2.529734135,5.927387608,5.774652509,b
+Q5,"X squashed Y, and X is stronger than Y.","X squashed Y, and Y is stronger than X.",2.334370852,2.541367054,5.043309806,5.821403642,a
+Q6,"Y squashed X, and Y is stronger than X.","Y squashed X, and X is stronger than Y.",2.532568693,2.408886433,5.786009505,5.310642569,b
+Q7,"The boy thew the ball, and the boy is bigger than the ball.","The boy thew the ball, and the ball is bigger than the boy.",1.866039753,1.926749349,3.645305566,3.801975799,a
+Q8,"The woman carried the book, and the woman is heavier than the book.","The woman carried the book, and the book is heavier than the woman.",1.925472975,1.984077215,3.798613621,3.956095396,a
+Q9,"The horse squashed the bug, and the horse is stronger than the bug.","The horse squashed the bug, and the bug is stronger than the horse.",1.763375044,1.774446487,3.394914036,3.421067305,a
+Q10,"The girl threw the rocket, and the girl is bigger than the rocket. ","The girl threw the rocket, and the rocket is bigger than the girl. ",1.782525897,1.790345192,3.440279781,3.458976451,a
+Q11,"The boy carried the car, and the boy is heavier than the car.","The boy carried the car, and the car is heavier than the boy.",1.842439055,1.91435492,3.586158008,3.769452312,a
+Q12,"The machine squashed the truck, and the machine is stronger than the truck.","The machine squashed the truck, the truck is stronger than the machine.",1.749756932,1.695384502,3.363019006,3.238631901,b
